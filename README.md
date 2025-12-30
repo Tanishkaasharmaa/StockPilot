@@ -37,11 +37,17 @@ Hugo is an AI-powered Supply Chain Co-Pilot designed to provide real-time monito
    pip install -r requirements.txt
    ```
 
-4. **Configure Environment Variables**:
-   Create a `config/.env` file and add your keys:
+4. **Ollama Setup**:
+   Ensure [Ollama](https://ollama.ai/) is installed and running locally. Pull the required model:
+   ```bash
+   ollama pull llama3 # or the model you are using
+   ```
+
+5. **Configure Environment Variables**:
+   Create a `config/.env` file (Hugo will also check the project root) for any additional settings:
    ```env
-   GOOGLE_API_KEY=your_key_here
-   # Other configuration...
+   # No API keys required for local Ollama usage
+   # Add other optional variables here...
    ```
 
 ## 🚦 Usage
