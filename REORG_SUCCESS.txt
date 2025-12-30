@@ -1,0 +1,2 @@
+Reorganization successful. All files are in src/, data/, docs/, and config/.
+Root files are now redundant.

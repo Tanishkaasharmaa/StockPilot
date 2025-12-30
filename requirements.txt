@@ -1,0 +1,13 @@
+pandas
+streamlit
+chromadb
+pypdf
+pypdf
+langchain-ollama
+python-dotenv
+onnxruntime
+tokenizers
+tabulate
+langgraph
+langchain
+langchain-community

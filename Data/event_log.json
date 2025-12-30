@@ -1,0 +1,239 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-12-29T19:52:30.839932",
+      "type": "CRITICAL_LOW_STOCK",
+      "severity": "HIGH",
+      "details": "S1 V2 Li-Po 48V 12Ah Battery Pack (P305): Reorder 62 units immediately",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-0"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:30.842471",
+      "type": "CRITICAL_LOW_STOCK",
+      "severity": "MEDIUM",
+      "details": "S1 V2 Carbon Fiber Frame (P307): Reorder 187 units immediately",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-1"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:30.952916",
+      "type": "CRITICAL_LOW_STOCK",
+      "severity": "MEDIUM",
+      "details": "OLED Dashboard Display (P329): Reorder 126 units immediately",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-2"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:30.952916",
+      "type": "CRITICAL_LOW_STOCK",
+      "severity": "MEDIUM",
+      "details": "12-inch Alloy Wheel (P330): Reorder 155 units immediately",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-3"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:30.957210",
+      "type": "CRITICAL_LOW_STOCK",
+      "severity": "MEDIUM",
+      "details": "Hydraulic Disc Brake (P331): Reorder 43 units immediately",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-4"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:30.957210",
+      "type": "CRITICAL_LOW_STOCK",
+      "severity": "MEDIUM",
+      "details": "S3 V2 Carbon Fiber Frame (P323): Reorder 165 units immediately",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-5"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:30.957210",
+      "type": "CRITICAL_LOW_STOCK",
+      "severity": "MEDIUM",
+      "details": "S2 V1 500W Brushless Motor (P308): Reorder 58 units immediately",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-6"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:30.963865",
+      "type": "CRITICAL_LOW_STOCK",
+      "severity": "MEDIUM",
+      "details": "Advanced LED Headlight with DRL (P332): Reorder 93 units immediately",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-7"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:30.965879",
+      "type": "DELAYED_ORDER",
+      "severity": "HIGH",
+      "details": "S2 V2 750W Brushless Motor (P312): Contact supplier SupA for updated ETA",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-8"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:30.969643",
+      "type": "DELAYED_ORDER",
+      "severity": "HIGH",
+      "details": "S1 V2 Carbon Fiber Frame (P307): Contact supplier SupC for updated ETA",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-9"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:30.972535",
+      "type": "DELAYED_ORDER",
+      "severity": "HIGH",
+      "details": "Advanced LED Headlight with DRL (P332): Contact supplier SupA for updated ETA",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-10"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:30.982012",
+      "type": "DELAYED_ORDER",
+      "severity": "HIGH",
+      "details": "S2 V1 Aluminum Frame (P311): Contact supplier SupA for updated ETA",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-11"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:30.984717",
+      "type": "DELAYED_ORDER",
+      "severity": "HIGH",
+      "details": "S1 V1 Li-Ion 36V 10Ah Battery Pack (P301): Contact supplier SupB for updated ETA",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-12"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:30.984717",
+      "type": "DELAYED_ORDER",
+      "severity": "HIGH",
+      "details": "S3 V2 750W Brushless Motor (P320): Contact supplier SupB for updated ETA",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-13"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:30.990357",
+      "type": "DELAYED_ORDER",
+      "severity": "HIGH",
+      "details": "Lock Washer (P338): Contact supplier SupC for updated ETA",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-14"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:30.992427",
+      "type": "DELAYED_ORDER",
+      "severity": "HIGH",
+      "details": "12-inch Alloy Wheel (P330): Contact supplier SupB for updated ETA",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-15"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:30.992427",
+      "type": "DELAYED_ORDER",
+      "severity": "HIGH",
+      "details": "S3 V2 Carbon Fiber Frame (P323): Contact supplier SupA for updated ETA",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-16"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:30.992427",
+      "type": "DELAYED_ORDER",
+      "severity": "HIGH",
+      "details": "S1 V2 Digital Controller ZP (P306): Contact supplier SupA for updated ETA",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-17"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:30.997933",
+      "type": "DELAYED_ORDER",
+      "severity": "HIGH",
+      "details": "S1 V1 Aluminum Frame (P303): Contact supplier SupC for updated ETA",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-18"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:31.001928",
+      "type": "DELAYED_ORDER",
+      "severity": "HIGH",
+      "details": "10-inch Alloy Wheel (P325): Contact supplier SupC for updated ETA",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-19"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:31.005477",
+      "type": "DELAYED_ORDER",
+      "severity": "HIGH",
+      "details": "S2 V2 Li-Po 48V 12Ah Battery Pack (P313): Contact supplier SupB for updated ETA",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-20"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:31.007475",
+      "type": "DELAYED_ORDER",
+      "severity": "HIGH",
+      "details": "Fast Charger 42V 2A (P333): Contact supplier SupA for updated ETA",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-21"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:31.008509",
+      "type": "BLOCKED_PART",
+      "severity": "HIGH",
+      "details": "S1 V2 750W Brushless Motor (P304): Find alternative supplier",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-22"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:31.009807",
+      "type": "BLOCKED_PART",
+      "severity": "HIGH",
+      "details": "S2 V2 750W Brushless Motor (P312): Find alternative supplier",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-23"
+    },
+    {
+      "timestamp": "2025-12-29T19:52:31.012804",
+      "type": "BLOCKED_PART",
+      "severity": "HIGH",
+      "details": "S2 V2 Li-Po 48V 12Ah Battery Pack (P313): Find alternative supplier",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-24"
+    },
+    {
+      "timestamp": "2025-12-29T20:49:28.685196",
+      "type": "DELAYED_ORDER",
+      "severity": "HIGH",
+      "details": "Standard LED Headlight (P327): Contact supplier SUP-005 for updated ETA",
+      "action_taken": null,
+      "acknowledged": true,
+      "event_id": "EVT-OLD-25"
+    }
+  ],
+  "last_check": "2025-12-29T20:49:28.685196"
+}
